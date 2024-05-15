@@ -1,5 +1,5 @@
 <script>
-const API_URL = `/dateproj/api/date`
+const API_URL = `/dateproj/api/date `
 
 export default {
   data: () => ({
